@@ -1,4 +1,4 @@
-# c++ cheat sheet with memoriation tools
+# c++ cheat sheet with memorization tools
 
 ## Concurrent Programming:
 
