@@ -16,5 +16,5 @@ I promise to move a function into a thread that runs AND
 
 A value getable from my parent _promise_, the _promise_ which created me.
 
-#### Promise to value family means in Future good prospects
+#### Promise to value family results in Future good prospects
 
