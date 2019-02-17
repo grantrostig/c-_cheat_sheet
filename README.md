@@ -2,7 +2,7 @@
 
 ## Concurrent Programming:
 
-### Promise: PTVF (Promise to value family)
+### Promise: PTVF (A Promise to value family)
 
 I promise to move a function into a thread that runs AND
 
@@ -12,9 +12,9 @@ I promise to move a function into a thread that runs AND
 
    Ie. fullfill the promise.
 
-### Future: FGP (Future good prospects)
+### Future: FGP (results in Future good prospects)
 
 A value getable from my parent _promise_, the _promise_ which created me.
 
-#### Promise to value family results in Future good prospects
+#### A Promise to value family results in Future good prospects
 
