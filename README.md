@@ -18,6 +18,6 @@ A value getable from my parent _promise_, the _promise_ which created me.
 
 #### A Promise to value family results in Future good prospects
 
-prototype struct:
+### prototype struct:
 https://github.com/grantrostig/stepanov-components-course/edit/master/code/lecture2/singleton.h
 
